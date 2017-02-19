@@ -9,6 +9,7 @@ class SchoolStudent extends Student
      void showData()
        {
         System.out.println(schnm);
+        //this is java comment line
        }
        public static void main(String args[])
           {
